@@ -1,4 +1,4 @@
-# MockApi
+# Angular Server Side Pagination
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
